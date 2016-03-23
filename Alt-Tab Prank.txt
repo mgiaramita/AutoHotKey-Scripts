@@ -1,0 +1,6 @@
+Script to press Alt+Tab every 60 seconds
+Causes windows to open and close reguardless of the users wishes
+
+Press Ctrl+j to start script
+
+To change the time interval edit the number after sleep. Time in milliseconds
