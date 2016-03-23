@@ -1,0 +1,14 @@
+Script to detect up and down mouse movements.
+Can be used to input keys for video games or whatever you want.
+Original idea was for using a mouse sensor as a beatmania turntable.
+
+Down movements = 'a' key
+Up movenemts = 'b' key
+
+These can be changed eaisly in the script.
+
+To start run the script and use the middle mouse button (click in scroll wheel) to toggle script on and off.
+Make sure that the mouse is not at the top or bottom of the screen when you toggle the script. It won't work correctly.
+
+WARNING: When script is active you cant move your mouse. The script gets the initial position and continuously moves it back there.
+	 Toggle it on and off as needed.
