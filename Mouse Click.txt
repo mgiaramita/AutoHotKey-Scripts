@@ -1,0 +1,10 @@
+Script that will left click the mouse once every 4.5 seconds.
+
+To activate press the middle mouse button and it will keep going until you press the same
+button again.
+
+Created so that I could view some photos without activating the fullscreen slideshow in the 
+native windows image viewer.
+
+To change the amount of time between clicks just edit the number next to the innermost loop
+> loop, 45    Each loop sleeps for 100ms. You can do the math.
