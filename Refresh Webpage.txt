@@ -1,0 +1,5 @@
+Script that refreshes your browser every 2.5 minutes
+Press Ctrl + j to start the process
+
+When in use make sure that the web browser is currently in focus,
+otherwise it will just press F5 in whatever program happens to be.
